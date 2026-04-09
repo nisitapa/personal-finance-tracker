@@ -25,11 +25,7 @@ This project is a mobile application for tracking personal income and expenses. 
 
 ## Demo Video
 
-[![Watch the demo](assets/screenshots/home-page.png)](
-
-https://github.com/user-attachments/assets/b7f4799b-0606-4096-9325-33788ba05d0b
-
-)
+[![Watch the demo](assets/screenshots/home-page.png)](https://github.com/user-attachments/assets/b7f4799b-0606-4096-9325-33788ba05d0b)
 
 ## Project Structure
 - `lib/` : main application source code
