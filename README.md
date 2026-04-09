@@ -23,6 +23,10 @@ This project is a mobile application for tracking personal income and expenses. 
 - Firebase Authentication
 - Cloud Firestore
 
+## Demo Video
+
+[![Watch the demo](assets/screenshots/home-page.png)](https://github.com/user-attachments/assets/xxxxx)
+
 ## Project Structure
 - `lib/` : main application source code
 - `assets/` : images and local assets
@@ -53,7 +57,7 @@ If Firebase config files are not included in this repository, create your own Fi
 2. Run:
    ```bash
    flutter pub get
-````
+   ````
 
 3. Configure Firebase for the project
 4. Start the app:
