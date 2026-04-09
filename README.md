@@ -72,6 +72,6 @@ This repository is intended for portfolio and educational showcase purposes.
 
 ## Project Status
 
-Academic Project
+Academic Project                                                                                         
 Mobile Application Course                                                       
 Kasetsart University Sriracha Campus
